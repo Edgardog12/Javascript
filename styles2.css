@@ -1,0 +1,57 @@
+#tarjetas{
+margin-top: 5%;
+padding-left: 10%;
+padding-right: 10%;
+padding-bottom: 1%;
+text-align: center;
+}
+.desc{
+    font-weight: bold;
+}
+
+#estu{
+    border: groove;
+    border-radius: 0%;
+    border-color: #006bb1; 
+}
+#trainee{
+    border: groove;
+    border-radius: 0%;
+    border-color: #19b5fe;  
+}
+#junior{
+    border: groove;
+    border-radius: 0%;
+    border-color: #f7ca18;  
+}
+.linea1{
+    text-align: center;
+}
+#formu{
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+#botonborrar{
+    
+    background-color: rgb(85, 214, 24);
+    border-color: rgb(85, 214, 24);
+    margin-top: 2%;
+}
+#botonresumen{
+   
+    background-color: rgb(85, 214, 24);
+    border-color: rgb(85, 214, 24);
+    margin-top: 2%;
+}
+#pie{
+    background: linear-gradient(to right, #022b4d, #154f5f);
+    color: #fff;
+    padding: 30px;
+    
+}
+#prtotal{
+    font-size:larger;
+    
+}
